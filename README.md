@@ -1,3 +1,14 @@
+Abstract:
+
+Create a system that tracks two lazy BTSs, student and faculty databases for a school.
+
+Commands to compile / run:
+
+To compile
+    g++ *.cpp 
+To run
+    ./a.out
+
 The program allows for the following commands through the console. Just type any of the numbers:
 
 1. Print all students and their information (sorted by ascending id #)
