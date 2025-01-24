@@ -1,4 +1,3 @@
-
 The program allows for the following commands through the console. Just type any of the numbers.
 
 "1. Print all students and their information (sorted by ascending id #)\n";
