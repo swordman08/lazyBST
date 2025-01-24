@@ -4,10 +4,9 @@ Create a system that tracks two lazy BTSs, student and faculty databases for a s
 
 Commands to compile / run:
 
-To compile
-    g++ *.cpp 
-To run
-    ./a.out
+1. To compile      g++ *.cpp 
+
+2. To run         ./a.out
 
 The program allows for the following commands through the console. Just type any of the numbers:
 
